@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 森孩子
+title: 森林孩子
 category: posts
 ---
 
