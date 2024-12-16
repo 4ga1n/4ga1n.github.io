@@ -51,9 +51,13 @@ GEM
 
 PLATFORMS
   ruby
+  x86_64-linux
 
 DEPENDENCIES
   foreman
   github-pages
   rake
   rmagick
+
+BUNDLED WITH
+   1.17.2
